@@ -1,2 +1,1 @@
 amitaki.github.io
-Site
